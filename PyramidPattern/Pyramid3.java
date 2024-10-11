@@ -19,7 +19,7 @@ public class Pyramid3 {
 		printPattern1(rows);
 	}
 
-	private static void printPattern3(int rows) {
+	private static void printPattern1(int rows) {
 
 		for(int i=1; i<=rows; i++) {
 

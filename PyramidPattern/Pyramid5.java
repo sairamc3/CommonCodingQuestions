@@ -14,7 +14,7 @@ public class Pyramid5 {
 
 		System.out.println("Printing the pyramid2");
 
-		printPyramid2(rows);
+		printPyramid5(rows);
 	}
 
 	private static void printPyramid5(int rows) {

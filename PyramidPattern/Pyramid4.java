@@ -17,7 +17,7 @@ public class Pyramid4 {
 		printPyramid2(rows);
 	}
 
-	private static void printPyramid4(int rows) {
+	private static void printPyramid2(int rows) {
 
 		for(int i=1; i<=rows; i++) {
 
